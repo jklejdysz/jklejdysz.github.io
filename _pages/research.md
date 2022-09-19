@@ -13,12 +13,11 @@ Attitudes towards private and public debt (with Cevat Aksoy, Mathias Dolls, Andr
 
 **Publications in Refereed Journals:**
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4010282">AShifts in ECB Communication: A Textual Analysis of the Press Conferences </a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4010282">Shifts in ECB Communication: A Textual Analysis of the Press Conferences </a> 
 (with Robin Lumsdaine)
 *Forthcoming, International Journal of Central Banking*. 
 
-<a href="https://doi.org/10.3390/vaccines10081190">Attitudes toward COVID-19 Vaccination on Social Media: A Cross-Platform Analysis </a> 
-Attitudes toward COVID-19 Vaccination on Social Media: A Cross-Platform Analysis (with Dominik Wawrzuta, Mariusz Jaworski, Joanna Gotlib and Mariusz Panczyk) *Vaccines*. 2022; 10(8):1190. 
+<a href="https://doi.org/10.3390/vaccines10081190">Attitudes toward COVID-19 Vaccination on Social Media: A Cross-Platform Analysis </a>  (with Dominik Wawrzuta, Mariusz Jaworski, Joanna Gotlib and Mariusz Panczyk) *Vaccines*. 2022; 10(8):1190. 
 
 **Policy papers:**
 
