@@ -13,17 +13,19 @@ Attitudes towards private and public debt (with Cevat Aksoy, Mathias Dolls, Andr
 
 **Publications in Refereed Journals:**
 
-Shifts in ECB Communication: A Textual Analysis of the Press Conferences (with Robin Lumsdaine)
-Forthcoming, International Journal of Central Banking. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4010282
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4010282">AShifts in ECB Communication: A Textual Analysis of the Press Conferences </a> 
+(with Robin Lumsdaine)
+*Forthcoming, International Journal of Central Banking*. 
 
-Attitudes toward COVID-19 Vaccination on Social Media: A Cross-Platform Analysis (with Dominik Wawrzuta, Mariusz Jaworski, Joanna Gotlib and Mariusz Panczyk) Vaccines. 2022; 10(8):1190. https://doi.org/10.3390/vaccines10081190
+<a href="https://doi.org/10.3390/vaccines10081190">Attitudes toward COVID-19 Vaccination on Social Media: A Cross-Platform Analysis </a> 
+Attitudes toward COVID-19 Vaccination on Social Media: A Cross-Platform Analysis (with Dominik Wawrzuta, Mariusz Jaworski, Joanna Gotlib and Mariusz Panczyk) *Vaccines*. 2022; 10(8):1190. 
 
 **Policy papers:**
 
+<a href="https://www.gov.pl/web/finanse/no-72022-p-chrostek-j-klejdysz-m-skawinski-wybrane-aspekty-systemu-podatkowo-skladkowego-na-podstawie-danych-administracyjnych-2018">P. Chrostek, J. Klejdysz, M. Skawiński: Wybrane aspekty systemu podatkowo-składkowego na podstawie danych administracyjnych 2018</a> 
+ (English title: Selected aspects of the Polish tax and social contributions system based on administrative data 2018). *Polish Ministry of Finance Essays and Analyses Series*. 2022. Also earlier editions of this report for years <a href="https://www.gov.pl/web/finanse/no-4-2020-pchrostek-j-klejdysz-mskawinski">2017</a> , <a href="https://www.gov.pl/web/finanse/wybrane-aspekty-systemu-podatkowo-skladkowego-na-podstawie-danych-pit-i-zus-2016">2016</a> .
 
-P. Chrostek, J. Klejdysz, M. Skawiński: Wybrane aspekty systemu podatkowo-składkowego na podstawie danych administracyjnych 2018 (English title: Selected aspects of the Polish tax and social contributions system based on administrative data 2018).} *Polish Ministry of Finance Essays and Analyses Series*. 2022. Also earlier editions of this report for years 2017, 2016.
-
-<a href="https://www.gov.pl/web/finanse/no-5-2021-j-klejdysz">J. Klejdysz: Dlaczego liczba osób prowadzących działalność gospodarczą wzrosła w czasie pandemii?</a>(English title: Why did the number of self-employed increased during the pandemic?)  *Polish Ministry of Finance Essays and Analyses Series*. 2021. 
+<a href="https://www.gov.pl/web/finanse/no-5-2021-j-klejdysz">J. Klejdysz: Dlaczego liczba osób prowadzących działalność gospodarczą wzrosła w czasie pandemii?</a> (English title: Why did the number of self-employed increased during the pandemic?)  *Polish Ministry of Finance Essays and Analyses Series*. 2021. 
 
 
 
