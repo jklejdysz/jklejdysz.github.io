@@ -26,6 +26,7 @@ Attitudes towards private and public debt (with Cevat Aksoy, Mathias Dolls, Andr
 
 <a href="https://www.gov.pl/web/finanse/no-5-2021-j-klejdysz">J. Klejdysz: Dlaczego liczba osób prowadzących działalność gospodarczą wzrosła w czasie pandemii?</a> (English title: Why did the number of self-employed increased during the pandemic?)  *Polish Ministry of Finance Essays and Analyses Series*. 2021. 
 
+<a href="https://youtu.be/5Qltc4W6S0s?t=1771">R for Public Policy: Microsimulation Tax Model for Poland</a>  Why R? Conference, 2020
 
 
 
