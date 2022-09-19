@@ -20,15 +20,11 @@ Attitudes toward COVID-19 Vaccination on Social Media: A Cross-Platform Analysis
 
 **Policy papers:**
 
-Polish Ministry of Finance paper series: https://www.gov.pl/web/finanse/mf-opracowania-i-analizy
 
-No 7-2022, P. Chrostek, J. Klejdysz, M. Skawiński: Wybrane aspekty systemu podatkowo-składkowego na podstawie danych administracyjnych 2018
+P. Chrostek, J. Klejdysz, M. Skawiński: Wybrane aspekty systemu podatkowo-składkowego na podstawie danych administracyjnych 2018 (English title: Selected aspects of the Polish tax and social contributions system based on administrative data 2018).} *Polish Ministry of Finance Essays and Analyses Series*. 2022. Also earlier editions of this report for years 2017, 2016.
 
-No 5-2021, J. Klejdysz: Dlaczego liczba osób prowadzących działalność gospodarczą wzrosła w czasie pandemii?
+<u><a href="{{https://www.gov.pl/web/finanse/no-5-2021-j-klejdysz}}">J. Klejdysz: Dlaczego liczba osób prowadzących działalność gospodarczą wzrosła w czasie pandemii?</a>.</u>(English title: Why did the number of self-employed increased during the pandemic?)  *Polish Ministry of Finance Essays and Analyses Series*. 2021. 
 
-No 4-2020, P. Chrostek, J. Klejdysz, M.Skawiński: Wybrane aspekty systemu podatkowoskładkowego na podstawie danych administracyjnych 2017
-
-No 1-2019, P. Chrostek, J. Klejdysz, D. Korniluk, M. Skawiński: Wybrane aspekty systemu podatkowo-składkowego na podstawie danych PIT i ZUS 2016
 
 
 
