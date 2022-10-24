@@ -24,7 +24,7 @@ Attitudes towards private and public debt (with Cevat Aksoy, Mathias Dolls, Andr
 <a href="https://www.gov.pl/web/finanse/no-72022-p-chrostek-j-klejdysz-m-skawinski-wybrane-aspekty-systemu-podatkowo-skladkowego-na-podstawie-danych-administracyjnych-2018">P. Chrostek, J. Klejdysz, M. Skawiński: Wybrane aspekty systemu podatkowo-składkowego na podstawie danych administracyjnych 2018</a> 
  (English title: Selected aspects of the Polish tax and social contributions system based on administrative data 2018). *Polish Ministry of Finance Essays and Analyses Series*. 2022. Also earlier editions of this report for years <a href="https://www.gov.pl/web/finanse/no-4-2020-pchrostek-j-klejdysz-mskawinski">2017</a> , <a href="https://www.gov.pl/web/finanse/wybrane-aspekty-systemu-podatkowo-skladkowego-na-podstawie-danych-pit-i-zus-2016">2016</a> .
 
-<a href="https://www.gov.pl/web/finanse/no-5-2021-j-klejdysz">J. Klejdysz: Dlaczego liczba osób prowadzących działalność gospodarczą wzrosła w czasie pandemii?</a> (English title: Why did the number of self-employed increased during the pandemic?)  *Polish Ministry of Finance Essays and Analyses Series*. 2021. 
+<a href="https://www.gov.pl/web/finanse/no-5-2021-j-klejdysz">J. Klejdysz: Dlaczego liczba osób prowadzących działalność gospodarczą wzrosła w czasie pandemii?</a> (English title: Why has the number of self-employed increased during the pandemic?)  *Polish Ministry of Finance Essays and Analyses Series*. 2021. 
 
 <a href="https://youtu.be/5Qltc4W6S0s?t=1771">R for Public Policy: Microsimulation Tax Model for Poland</a>  Why R? Conference, 2020
 
